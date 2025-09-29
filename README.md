@@ -23,7 +23,7 @@ The game has **two modes**:
 
 ## 📂 Project Structure
 ```bash
-HangMan/
+HANGMAN-CLI-MiniGame-Python/
 │── HangMan.py    # Main game file
 │── .gitignore    # Ignored files (vscode, pycache, etc.)
 │── README.md     # README File for description
